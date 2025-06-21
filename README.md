@@ -1,1 +1,1 @@
-# AI-Indigo-Research
+# AI-Research
